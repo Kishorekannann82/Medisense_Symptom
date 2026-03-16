@@ -1,0 +1,101 @@
+{
+  "Fungal infection": [
+    "Antifungal Cream",
+    "Fluconazole"
+  ],
+  "Allergy": [
+    "Antihistamines",
+    "Cetirizine",
+    "Loratadine"
+  ],
+  "GERD": [
+    "Omeprazole",
+    "Antacids",
+    "Ranitidine"
+  ],
+  "Diabetes": [
+    "Metformin",
+    "Insulin",
+    "Glipizide"
+  ],
+  "Hypertension": [
+    "Amlodipine",
+    "Lisinopril",
+    "Atenolol"
+  ],
+  "Malaria": [
+    "Chloroquine",
+    "Artemisinin",
+    "Primaquine"
+  ],
+  "Dengue": [
+    "Paracetamol",
+    "IV Fluids",
+    "Pain relievers"
+  ],
+  "Typhoid": [
+    "Ciprofloxacin",
+    "Azithromycin",
+    "Ceftriaxone"
+  ],
+  "Common Cold": [
+    "Paracetamol",
+    "Cetirizine",
+    "Vitamin C"
+  ],
+  "Pneumonia": [
+    "Amoxicillin",
+    "Azithromycin",
+    "Cefuroxime"
+  ],
+  "Tuberculosis": [
+    "Isoniazid",
+    "Rifampicin",
+    "Pyrazinamide"
+  ],
+  "Chicken pox": [
+    "Acyclovir",
+    "Calamine lotion",
+    "Antihistamines"
+  ],
+  "Jaundice": [
+    "Liver tonics",
+    "Ursodeoxycholic acid",
+    "Vitamin supplements"
+  ],
+  "Migraine": [
+    "Sumatriptan",
+    "Ibuprofen",
+    "Paracetamol"
+  ],
+  "Heart attack": [
+    "Aspirin",
+    "Nitroglycerin",
+    "Heparin"
+  ],
+  "Urinary tract infection": [
+    "Nitrofurantoin",
+    "Trimethoprim",
+    "Ciprofloxacin"
+  ],
+  "Acne": [
+    "Benzoyl peroxide",
+    "Salicylic acid",
+    "Clindamycin gel"
+  ],
+  "Arthritis": [
+    "Ibuprofen",
+    "Naproxen",
+    "Methotrexate"
+  ],
+  "Gastroenteritis": [
+    "ORS",
+    "Loperamide",
+    "Probiotics"
+  ],
+  "Bronchial Asthma": [
+    "Salbutamol inhaler",
+    "Budesonide",
+    "Montelukast"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "random_forest": {
+    "train_accuracy": 0.9975609756097561,
+    "test_accuracy": 0.9890243902439024,
+    "cv_mean": 0.9914634146341463,
+    "cv_std": 0.0031800987342451973
+  },
+  "svm": {
+    "test_accuracy": 0.9865853658536585
+  },
+  "n_diseases": 41,
+  "n_symptoms": 131,
+  "n_samples": 4100
+}

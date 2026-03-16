@@ -1,0 +1,247 @@
+{
+  "0": [
+    "Drug Reaction",
+    "stop irritation",
+    "consult nearest hospital",
+    "stop taking drug"
+  ],
+  "1": [
+    "Malaria",
+    "Consult nearest hospital",
+    "avoid oily food",
+    "avoid non veg food"
+  ],
+  "2": [
+    "Allergy",
+    "apply calamine",
+    "cover area with bandage"
+  ],
+  "3": [
+    "Hypothyroidism",
+    "reduce stress",
+    "exercise",
+    "eat healthy"
+  ],
+  "4": [
+    "Psoriasis",
+    "wash hands with warm soapy water",
+    "stop bleeding using pressure",
+    "consult doctor"
+  ],
+  "5": [
+    "GERD",
+    "avoid fatty spicy food",
+    "avoid lying down after eating",
+    "maintain healthy weight"
+  ],
+  "6": [
+    "Chronic cholestasis",
+    "cold baths",
+    "anti itch medicine",
+    "consult doctor"
+  ],
+  "7": [
+    "hepatitis A",
+    "Consult nearest hospital",
+    "wash hands through",
+    "avoid fatty spicy food"
+  ],
+  "8": [
+    "Osteoarthristis",
+    "acetaminophen",
+    "consult nearest hospital",
+    "follow up"
+  ],
+  "9": [
+    "(vertigo) Paroymsal  Positional Vertigo",
+    "lie down",
+    "avoid sudden change in body",
+    "avoid abrupt head movment"
+  ],
+  "10": [
+    "Hypoglycemia",
+    "lie down on side",
+    "check in pulse",
+    "drink sugary drinks"
+  ],
+  "11": [
+    "Acne",
+    "bath twice",
+    "avoid fatty spicy food",
+    "drink plenty of water"
+  ],
+  "12": [
+    "Diabetes",
+    "have balanced diet",
+    "exercise",
+    "consult doctor"
+  ],
+  "13": [
+    "Impetigo",
+    "soak affected area in warm water",
+    "use antibiotics",
+    "remove scabs with wet compressed cloth"
+  ],
+  "14": [
+    "Hypertension",
+    "meditation",
+    "salt baths",
+    "reduce stress"
+  ],
+  "15": [
+    "Peptic ulcer diseae",
+    "avoid fatty spicy food",
+    "consume probiotic food",
+    "eliminate milk"
+  ],
+  "16": [
+    "Dimorphic hemmorhoids(piles)",
+    "avoid fatty spicy food",
+    "consume witch hazel",
+    "warm bath with epsom salt"
+  ],
+  "17": [
+    "Common Cold",
+    "drink vitamin c rich drinks",
+    "take vapour",
+    "avoid cold food"
+  ],
+  "18": [
+    "Chicken pox",
+    "use neem in bathing",
+    "consume neem leaves",
+    "take vaccine"
+  ],
+  "19": [
+    "Cervical spondylosis",
+    "use heating pad or cold pack",
+    "exercise",
+    "take otc pain reliver"
+  ],
+  "20": [
+    "Hyperthyroidism",
+    "eat healthy",
+    "massage",
+    "use lemon balm"
+  ],
+  "21": [
+    "Urinary tract infection",
+    "drink plenty of water",
+    "increase vitamin c intake",
+    "drink cranberry juice"
+  ],
+  "22": [
+    "Varicose veins",
+    "lie down flat and raise the leg high",
+    "use oinments",
+    "use vein compression"
+  ],
+  "23": [
+    "AIDS",
+    "avoid open cuts",
+    "wear ppe if possible",
+    "consult doctor"
+  ],
+  "24": [
+    "Paralysis (brain hemorrhage)",
+    "massage",
+    "eat healthy",
+    "exercise"
+  ],
+  "25": [
+    "Typhoid",
+    "eat high calorie vegitables",
+    "antiboitic therapy",
+    "consult doctor"
+  ],
+  "26": [
+    "Hepatitis B",
+    "consult nearest hospital",
+    "vaccination",
+    "eat healthy"
+  ],
+  "27": [
+    "Fungal infection",
+    "bath twice",
+    "use detol or neem in bathing water",
+    "keep infected area dry"
+  ],
+  "28": [
+    "Hepatitis C",
+    "Consult nearest hospital",
+    "vaccination",
+    "eat healthy"
+  ],
+  "29": [
+    "Migraine",
+    "meditation",
+    "reduce stress",
+    "use poloroid glasses in sun"
+  ],
+  "30": [
+    "Bronchial Asthma",
+    "switch to loose cloothing",
+    "take deep breaths",
+    "get away from trigger"
+  ],
+  "31": [
+    "Alcoholic hepatitis",
+    "stop alcohol consumption",
+    "consult doctor",
+    "medication"
+  ],
+  "32": [
+    "Jaundice",
+    "drink plenty of water",
+    "consume milk thistle",
+    "eat fruits and high fiberous food"
+  ],
+  "33": [
+    "Hepatitis E",
+    "stop alcohol consumption",
+    "rest",
+    "consult doctor"
+  ],
+  "34": [
+    "Dengue",
+    "drink papaya leaf juice",
+    "avoid fatty spicy food",
+    "keep mosquitos away"
+  ],
+  "35": [
+    "Hepatitis D",
+    "consult doctor",
+    "medication",
+    "eat healthy"
+  ],
+  "36": [
+    "Heart attack",
+    "call ambulance",
+    "chew or swallow asprin",
+    "keep calm"
+  ],
+  "37": [
+    "Pneumonia",
+    "consult doctor",
+    "medication",
+    "rest"
+  ],
+  "38": [
+    "Arthritis",
+    "exercise",
+    "use hot and cold therapy",
+    "try acupuncture"
+  ],
+  "39": [
+    "Gastroenteritis",
+    "stop eating solid food for while",
+    "try taking small sips of water",
+    "rest"
+  ],
+  "40": [
+    "Tuberculosis",
+    "cover mouth",
+    "consult doctor",
+    "medication"
+  ]
+}

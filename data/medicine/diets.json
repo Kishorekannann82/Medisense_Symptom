@@ -1,0 +1,74 @@
+{
+  "Fungal infection": [
+    "Avoid sugary foods",
+    "Eat garlic",
+    "Probiotics",
+    "Low-carb diet"
+  ],
+  "Allergy": [
+    "Avoid trigger foods",
+    "Eat local honey",
+    "Omega-3 rich foods",
+    "Vitamin C foods"
+  ],
+  "GERD": [
+    "Avoid spicy food",
+    "Eat small meals",
+    "Avoid caffeine",
+    "Alkaline foods"
+  ],
+  "Diabetes": [
+    "Low glycemic index food",
+    "Bitter gourd juice",
+    "Fenugreek seeds",
+    "Avoid sugar"
+  ],
+  "Hypertension": [
+    "DASH diet",
+    "Low sodium",
+    "Potassium rich foods",
+    "Avoid alcohol"
+  ],
+  "Malaria": [
+    "High calorie diet",
+    "Fruits and vegetables",
+    "Lots of fluids",
+    "Avoid oily food"
+  ],
+  "Dengue": [
+    "Papaya leaf juice",
+    "Coconut water",
+    "Pomegranate juice",
+    "High fluid intake"
+  ],
+  "Typhoid": [
+    "High calorie vegetables",
+    "Boiled water only",
+    "Cooked vegetables",
+    "Avoid raw food"
+  ],
+  "Common Cold": [
+    "Warm soups",
+    "Citrus fruits",
+    "Ginger tea",
+    "Honey lemon water"
+  ],
+  "Pneumonia": [
+    "High protein diet",
+    "Lots of fluids",
+    "Fruits and vegetables",
+    "Rest"
+  ],
+  "Tuberculosis": [
+    "High protein diet",
+    "Vitamin D foods",
+    "Calorie dense food",
+    "Fruits"
+  ],
+  "Gastroenteritis": [
+    "Clear liquids",
+    "BRAT diet (banana rice apple toast)",
+    "Avoid dairy",
+    "ORS"
+  ]
+}

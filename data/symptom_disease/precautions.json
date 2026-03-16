@@ -1,0 +1,128 @@
+{
+  "Fungal infection": [
+    "bathe twice",
+    "use detol or neem in bathing water",
+    "keep infected area dry",
+    "use clean cloths"
+  ],
+  "Allergy": [
+    "apply calamine",
+    "cover area with bandage",
+    "use ice to compress itching",
+    "avoid allergen"
+  ],
+  "GERD": [
+    "avoid fatty spicy food",
+    "avoid lying down after eating",
+    "maintain healthy weight",
+    "exercise"
+  ],
+  "Diabetes": [
+    "have balanced diet",
+    "exercise",
+    "consult doctor",
+    "follow up"
+  ],
+  "Hypertension": [
+    "meditation",
+    "salt baths",
+    "reduce stress",
+    "get proper sleep"
+  ],
+  "Malaria": [
+    "consult nearest hospital",
+    "avoid oily food",
+    "avoid non veg food",
+    "keep mosquitos away"
+  ],
+  "Dengue": [
+    "drink papaya leaf juice",
+    "avoid fatty spicy food",
+    "keep mosquitoes away",
+    "keep hydrated"
+  ],
+  "Typhoid": [
+    "eat high calorie vegetables",
+    "antibiotic therapy",
+    "consult doctor",
+    "medication"
+  ],
+  "Common Cold": [
+    "drink vitamin c rich drinks",
+    "take vapour",
+    "avoid cold food",
+    "keep fever in check"
+  ],
+  "Pneumonia": [
+    "consult doctor",
+    "medication",
+    "rest",
+    "follow up"
+  ],
+  "Tuberculosis": [
+    "cover mouth",
+    "consult doctor",
+    "medication",
+    "follow up"
+  ],
+  "Chicken pox": [
+    "use neem in bathing",
+    "consume neem leaves",
+    "take vaccine",
+    "avoid public places"
+  ],
+  "Jaundice": [
+    "drink plenty of water",
+    "consume milk thistle",
+    "eat fruits and high fibrous food",
+    "medication"
+  ],
+  "Migraine": [
+    "avoid bright lights",
+    "sleep extra",
+    "reduce stress",
+    "use peppermint oil"
+  ],
+  "Heart attack": [
+    "call ambulance",
+    "chew aspirin",
+    "keep calm",
+    "go to nearest hospital immediately"
+  ],
+  "Urinary tract infection": [
+    "drink plenty of water",
+    "increase vitamin c intake",
+    "drink cranberry juice",
+    "take probiotics"
+  ],
+  "Acne": [
+    "bath twice daily",
+    "avoid fatty spicy food",
+    "drink plenty of water",
+    "avoid too many products"
+  ],
+  "Arthritis": [
+    "exercise",
+    "use hot and cold therapy",
+    "try acupuncture",
+    "massage"
+  ],
+  "Gastroenteritis": [
+    "stop eating solid food for while",
+    "try taking small sips of water",
+    "rest",
+    "ease back into eating"
+  ],
+  "Bronchial Asthma": [
+    "switch to loose clothing",
+    "take deep breaths",
+    "get away from triggers",
+    "seek help"
+  ],
+  "Psoriasis": [
+    "wash hands with warm soapy water",
+    "stop bleeding using pressure",
+    "consult doctor",
+    "salt baths"
+  ]
+}

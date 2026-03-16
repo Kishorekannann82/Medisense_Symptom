@@ -1,0 +1,300 @@
+{
+  "fever": {
+    "en": [
+      {
+        "remedy": "Cold compress",
+        "instructions": "Place a cool damp cloth on forehead for 10 mins",
+        "ingredients": [
+          "water",
+          "cloth"
+        ]
+      },
+      {
+        "remedy": "Ginger honey tea",
+        "instructions": "Boil ginger in water, add honey, drink warm",
+        "ingredients": [
+          "ginger",
+          "honey",
+          "water"
+        ]
+      },
+      {
+        "remedy": "Tulsi kadha",
+        "instructions": "Boil tulsi leaves in water, drink twice a day",
+        "ingredients": [
+          "tulsi leaves",
+          "water"
+        ]
+      }
+    ],
+    "ta": [
+      {
+        "remedy": "குளிர் கட்டு",
+        "instructions": "நனைத்த துணியை நெற்றியில் 10 நிமிடம் வையுங்கள்",
+        "ingredients": [
+          "தண்ணீர்",
+          "துணி"
+        ]
+      },
+      {
+        "remedy": "இஞ்சி தேன் தேநீர்",
+        "instructions": "இஞ்சியை கொதிக்க வைத்து தேன் சேர்த்து குடியுங்கள்",
+        "ingredients": [
+          "இஞ்சி",
+          "தேன்"
+        ]
+      }
+    ],
+    "ml": [
+      {
+        "remedy": "തണുത്ത തുണി",
+        "instructions": "നനഞ്ഞ തുണി നെറ്റിയിൽ 10 മിനിറ്റ് വയ്ക്കുക",
+        "ingredients": [
+          "വെള്ളം",
+          "തുണി"
+        ]
+      },
+      {
+        "remedy": "ഇഞ്ചി തേൻ ചായ",
+        "instructions": "ഇഞ്ചി തിളപ്പിച്ച് തേൻ ചേർത്ത് കുടിക്കുക",
+        "ingredients": [
+          "ഇഞ്ചി",
+          "തേൻ"
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "remedy": "ठंडी पट्टी",
+        "instructions": "गीला कपड़ा माथे पर 10 मिनट रखें",
+        "ingredients": [
+          "पानी",
+          "कपड़ा"
+        ]
+      },
+      {
+        "remedy": "अदरक शहद चाय",
+        "instructions": "अदरक उबालकर शहद मिलाकर पिएं",
+        "ingredients": [
+          "अदरक",
+          "शहद"
+        ]
+      }
+    ]
+  },
+  "common cold": {
+    "en": [
+      {
+        "remedy": "Steam inhalation",
+        "instructions": "Inhale steam from hot water 10 minutes twice daily",
+        "ingredients": [
+          "hot water"
+        ]
+      },
+      {
+        "remedy": "Turmeric milk",
+        "instructions": "Add half tsp turmeric to warm milk, drink at bedtime",
+        "ingredients": [
+          "turmeric",
+          "milk"
+        ]
+      }
+    ],
+    "ta": [
+      {
+        "remedy": "ஆவி பிடித்தல்",
+        "instructions": "சூடான தண்ணீரில் ஆவியை 10 நிமிடம் சுவாசியுங்கள்",
+        "ingredients": [
+          "சூடான தண்ணீர்"
+        ]
+      },
+      {
+        "remedy": "மஞ்சள் பால்",
+        "instructions": "வெதுவெதுப்பான பாலில் மஞ்சள் சேர்த்து இரவில் குடியுங்கள்",
+        "ingredients": [
+          "மஞ்சள்",
+          "பால்"
+        ]
+      }
+    ],
+    "ml": [
+      {
+        "remedy": "ആവി പിടിക്കൽ",
+        "instructions": "ചൂടുവെള്ളത്തിന്റെ ആവി 10 മിനിറ്റ് ശ്വസിക്കുക",
+        "ingredients": [
+          "ചൂടുവെള്ളം"
+        ]
+      },
+      {
+        "remedy": "മഞ്ഞൾ പാൽ",
+        "instructions": "ചൂടുപാലിൽ മഞ്ഞൾ ചേർത്ത് രാത്രി കുടിക്കുക",
+        "ingredients": [
+          "മഞ്ഞൾ",
+          "പാൽ"
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "remedy": "भाप लेना",
+        "instructions": "गर्म पानी की भाप 10 मिनट दिन में दो बार लें",
+        "ingredients": [
+          "गर्म पानी"
+        ]
+      },
+      {
+        "remedy": "हल्दी दूध",
+        "instructions": "गर्म दूध में हल्दी मिलाकर सोने से पहले पिएं",
+        "ingredients": [
+          "हल्दी",
+          "दूध"
+        ]
+      }
+    ]
+  },
+  "headache": {
+    "en": [
+      {
+        "remedy": "Peppermint oil",
+        "instructions": "Gently apply peppermint oil on temples and forehead",
+        "ingredients": [
+          "peppermint oil"
+        ]
+      },
+      {
+        "remedy": "Ginger tea",
+        "instructions": "Drink warm ginger tea and rest in a dark quiet room",
+        "ingredients": [
+          "ginger",
+          "water"
+        ]
+      }
+    ],
+    "ta": [
+      {
+        "remedy": "புதினா எண்ணெய்",
+        "instructions": "புதினா எண்ணெயை நெற்றியில் மெதுவாக தடவுங்கள்",
+        "ingredients": [
+          "புதினா எண்ணெய்"
+        ]
+      }
+    ],
+    "ml": [
+      {
+        "remedy": "പുദീനം എണ്ണ",
+        "instructions": "നെറ്റിയിൽ പുദീനം എണ്ണ പതുക്കെ തടവുക",
+        "ingredients": [
+          "പുദീനം എണ്ണ"
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "remedy": "पुदीना तेल",
+        "instructions": "माथे पर पुदीना तेल धीरे से लगाएं",
+        "ingredients": [
+          "पुदीना तेल"
+        ]
+      }
+    ]
+  },
+  "acidity": {
+    "en": [
+      {
+        "remedy": "Cold milk",
+        "instructions": "Drink a glass of cold milk without sugar",
+        "ingredients": [
+          "cold milk"
+        ]
+      },
+      {
+        "remedy": "Jeera water",
+        "instructions": "Boil 1 tsp cumin in water, strain and drink after meals",
+        "ingredients": [
+          "cumin",
+          "water"
+        ]
+      }
+    ],
+    "ta": [
+      {
+        "remedy": "குளிர்ந்த பால்",
+        "instructions": "சர்க்கரை இல்லாத குளிர்ந்த பால் குடியுங்கள்",
+        "ingredients": [
+          "பால்"
+        ]
+      },
+      {
+        "remedy": "சீரக தண்ணீர்",
+        "instructions": "சீரகத்தை கொதிக்க வைத்து வடிகட்டி குடியுங்கள்",
+        "ingredients": [
+          "சீரகம்"
+        ]
+      }
+    ],
+    "ml": [
+      {
+        "remedy": "തണുത്ത പാൽ",
+        "instructions": "പഞ്ചസാര ഇല്ലാതെ തണുത്ത പാൽ കുടിക്കുക",
+        "ingredients": [
+          "പാൽ"
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "remedy": "ठंडा दूध",
+        "instructions": "बिना चीनी के ठंडा दूध पिएं",
+        "ingredients": [
+          "दूध"
+        ]
+      },
+      {
+        "remedy": "जीरा पानी",
+        "instructions": "जीरा उबालकर छानकर खाने के बाद पिएं",
+        "ingredients": [
+          "जीरा"
+        ]
+      }
+    ]
+  },
+  "stomach pain": {
+    "en": [
+      {
+        "remedy": "Ajwain water",
+        "instructions": "Mix 1 tsp ajwain with warm water, drink slowly",
+        "ingredients": [
+          "ajwain",
+          "warm water"
+        ]
+      }
+    ],
+    "ta": [
+      {
+        "remedy": "ஓமம் தண்ணீர்",
+        "instructions": "ஓமத்தை வெதுவெதுப்பான தண்ணீரில் கலந்து குடியுங்கள்",
+        "ingredients": [
+          "ஓமம்"
+        ]
+      }
+    ],
+    "ml": [
+      {
+        "remedy": "അജ്വൈൻ വെള്ളം",
+        "instructions": "അജ്വൈൻ ചൂടുവെള്ളത്തിൽ കലക്കി കുടിക്കുക",
+        "ingredients": [
+          "അജ്വൈൻ"
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "remedy": "अजवाइन पानी",
+        "instructions": "अजवाइन गर्म पानी में मिलाकर पिएं",
+        "ingredients": [
+          "अजवाइन"
+        ]
+      }
+    ]
+  }
+}

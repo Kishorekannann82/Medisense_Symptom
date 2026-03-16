@@ -1,0 +1,12 @@
+{
+  "models": {
+    "Random Forest": 0.9890243902439024,
+    "SVM": 0.9865853658536585,
+    "LSTM Temporal": 1.0
+  },
+  "dataset": {
+    "diseases": 41,
+    "symptoms": 131,
+    "samples": 4100
+  }
+}

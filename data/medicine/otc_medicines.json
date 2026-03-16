@@ -1,0 +1,85 @@
+{
+  "fever": [
+    {
+      "name": "Paracetamol (Crocin/Dolo 650)",
+      "generic": "Acetaminophen",
+      "dosage": "500mg–1g",
+      "frequency": "Every 6–8 hours",
+      "warnings": [
+        "Max 4g/day",
+        "Avoid alcohol"
+      ],
+      "not_for": [
+        "Liver disease"
+      ]
+    }
+  ],
+  "headache": [
+    {
+      "name": "Paracetamol (Crocin)",
+      "generic": "Acetaminophen",
+      "dosage": "500mg",
+      "frequency": "Every 6 hours",
+      "warnings": [
+        "Avoid alcohol"
+      ],
+      "not_for": [
+        "Liver disease"
+      ]
+    }
+  ],
+  "common cold": [
+    {
+      "name": "Cetirizine (Cetcip)",
+      "generic": "Cetirizine HCl",
+      "dosage": "10mg",
+      "frequency": "Once at night",
+      "warnings": [
+        "Causes drowsiness"
+      ],
+      "not_for": [
+        "Children under 2"
+      ]
+    }
+  ],
+  "acidity": [
+    {
+      "name": "Antacid (Gelusil)",
+      "generic": "Aluminium Hydroxide",
+      "dosage": "2 tablets",
+      "frequency": "After meals",
+      "warnings": [
+        "Short-term only"
+      ],
+      "not_for": [
+        "Kidney disease"
+      ]
+    }
+  ],
+  "diarrhea": [
+    {
+      "name": "ORS (Electral)",
+      "generic": "Oral Rehydration Salts",
+      "dosage": "1 sachet in 1L water",
+      "frequency": "Sip throughout day",
+      "warnings": [
+        "Fresh every 24hrs"
+      ],
+      "not_for": []
+    }
+  ],
+  "skin rash": [
+    {
+      "name": "Calamine lotion",
+      "generic": "Calamine",
+      "dosage": "Apply thin layer",
+      "frequency": "2–3 times daily",
+      "warnings": [
+        "External use only"
+      ],
+      "not_for": [
+        "Open wounds"
+      ]
+    }
+  ]
+}
